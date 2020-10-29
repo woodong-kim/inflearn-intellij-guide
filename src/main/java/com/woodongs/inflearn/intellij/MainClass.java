@@ -5,6 +5,7 @@ public class MainClass {
         System.out.println("Hello Intellij");
 
         System.out.println("MainClass2.main");
+        System.out.println("MainClass2.main");
 
     }
 }
