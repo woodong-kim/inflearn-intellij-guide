@@ -14,7 +14,6 @@ public class MainClass2 {
         System.out.println("MainClass2.main");
         System.out.println("MainClass2.main");
         System.out.println("MainClass2.main");
-        System.out.println("MainClass2.main");
 
         //test2
 
