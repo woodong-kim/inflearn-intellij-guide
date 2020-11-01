@@ -22,6 +22,7 @@ public class MainClass2 {
         //git branch master
         // git branch 1
         // git remote push
+		// git clone
 
     }
 
