@@ -23,7 +23,8 @@ public class MainClass2 {
         // git branch 1
         // git remote push
 		// git clone
-
+		// git pull request (merge request)
+		// git branche request
     }
 
 }
